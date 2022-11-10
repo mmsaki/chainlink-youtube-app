@@ -2,6 +2,13 @@
 
 # Getting Started
 
+Tnpm o run, clone the repo and npm install before starting the server:
+```bash
+npm install
+npm run build
+npm start
+```
+
 This project uses:
 - nextjs
 - rainbow wallet
