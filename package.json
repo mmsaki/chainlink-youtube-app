@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-temp",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@rainbow-me/rainbowkit": "^0.7.4",
+    "@headlessui/react": "^1.6.6",
+    "@heroicons/react": "^1.0.6",
+    "@nextui-org/react": "^1.0.0-beta.9",
+    "@rainbow-me/rainbowkit": "^0.4.6",
+    "alchemy-sdk": "^2.2.3",
     "ethers": "^5.7.2",
-    "next": "13.0.2",
+    "next": "12.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "wagmi": "^0.7.13"
+    "react-hot-toast": "^2.3.0",
+    "wagmi": "^0.6.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.7"
   }
 }
