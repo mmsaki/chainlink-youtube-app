@@ -13,6 +13,7 @@ This project uses:
 - Chainlink Nodes
 - Quicknode Endpoint
 - Google Cloud VM
+- Youtube Data V3 API
 <!-- 
 # to upload files to ipfd using web3-storage w3up
 $ npm install -g @web3-storage/w3up-cli 
