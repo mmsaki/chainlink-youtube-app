@@ -10,9 +10,9 @@ npm start
 ```
 
 This project uses:
-- nextjs
-- rainbow wallet
-- web3.storage
+- Chainlink Nodes
+- Quicknode Endpoint
+- Google Cloud VM
 <!-- 
 # to upload files to ipfd using web3-storage w3up
 $ npm install -g @web3-storage/w3up-cli 
